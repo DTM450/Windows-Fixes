@@ -1,0 +1,9 @@
+When you get a disk write error or missing permissions when you update or intsall steam games
+
+Remember the folder number in SteamLibrary\SteamApps\downloading\#FOLDER NAME#
+
+Restart in Safe Mode
+
+If it gave you a file delete that file from the directory 
+Or
+Delete folder from downloading in SteamApps
