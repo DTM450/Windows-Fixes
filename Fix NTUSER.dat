@@ -1,0 +1,18 @@
+Get a copy of Windows 10 ISO
+
+Mount OS ISO
+Go to Sources
+Open install.wim with 7zip
+head to 1/Users/Default
+Copy NTUSER.DAT to desktop
+
+goto change folder and search options
+go view tab and untick hide protected operating system files (Recommended)
+go apply
+
+go to desktop and copy the ntuser.dat to C:\Users\Default
+
+retick Hide protected operating system files
+apply and close
+
+unmount OS ISO and your good to go
